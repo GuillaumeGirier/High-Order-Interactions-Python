@@ -9,7 +9,7 @@ The High Order Jupyter Notebook is describing each functions and gives examples.
 
 This code is used to compute the results from the pre-print _Emergence of High-Order Functional Hubs in the Human Brain_. [2]
 
-# Prerequisites :
+## Prerequisites :
 
 Python version : 3.9
 
@@ -21,7 +21,7 @@ Packages needed :
 - itertools 
 - dit
 
-# Bibliography :
+## Bibliography :
 
 [1] _High-order interdependencies in the aging brain_, Marilyn Gatica, Rodrigo Cofréc, Pedro A.M. Medianod, Fernando E. Rosase, Patricio Orioa, Ibai Diezi, S.P. Swinnenl, and Jesus M. Cortes, preprint doi: https://doi.org/10.1101/2020.03.17.995886; March 18, 2020.
 
