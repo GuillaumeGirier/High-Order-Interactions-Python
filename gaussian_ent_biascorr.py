@@ -6,7 +6,6 @@
 
 COMMENTS :
 
-This script code is used by "gaussian_ent_biascorr.py" script.
 If you want to test this code, you can find a toy at the end of the script.
 If you want more information, refers to "high_order.py" comments.
 
