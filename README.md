@@ -1,4 +1,4 @@
-# High Order Interactions (Python)
+# High Order Interactions (Python) 
 
 Authors : GIRIER Guillaume, DESROCHES Mathieu, RODRIGUES Serafim (Basque Center for Applied Mathematics)
 
@@ -8,6 +8,8 @@ This code is computing and characterizing high-order interactions among n brain 
 The High Order Jupyter Notebook is describing each functions and gives examples.
 
 This code is used to compute the results from the pre-print _Emergence of High-Order Functional Hubs in the Human Brain_. [2]
+
+# Prerequisites :
 
 Python version : 3.9
 
