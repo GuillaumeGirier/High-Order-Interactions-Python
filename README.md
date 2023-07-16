@@ -5,7 +5,7 @@ Authors : GIRIER Guillaume, DESROCHES Mathieu, RODRIGUES Serafim (Basque Center 
 Contact : guillaumegirier@gmail.com
 
 This code is computing and characterizing high-order interactions among n brain areas. [1]
-The High Order Notebook is describing all the code functions.
+The High Order Jupyter Notebook is describing each functions and gives examples.
 
 This code is used to compute the results from the pre-print _Emergence of High-Order Functional Hubs in the Human Brain_. [2]
 
