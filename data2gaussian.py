@@ -7,7 +7,7 @@
 COMMENTS :
 
 This script code is used by "high_order.py".
-If you want to test this code, you can find a toy at the end of the script.
+If you want to test this code, you can find a toy in the Jupyter Notebook called "High_order_notebook.ipynb".
 If you want more information, refers to "high_order.py" comments.
 
 """
