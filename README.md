@@ -27,4 +27,16 @@ Packages needed :
 
 [2] _Emergence of High-Order Functional Hubs in the Human Brain_, Fernando A.N. Santos, Prejaas K.B. Tewarie, Pierre Baudot, Antonio Luchicchi, Danillo Barros de Souza, Guillaume Girier, Ana P. Milan, Tommy Broeders, Eduarda G.Z. Centeno, Rodrigo Cofre, Fernando E Rosas, Davide Carone, James Kennedy, Cornelis J. Stam, Arjan Hillebrand, Mathieu Desroches, Serafim Rodrigues, Menno Schoonheim, Linda Douw, Rick Quax, bioRxiv 2023.02.10.528083; doi: https://doi.org/10.1101/2023.02.10.528083
 
+## License :
+
+
+LICENSE :
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>. 3
+
+
 
